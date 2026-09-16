@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="[https://m.media-amazon.com/images/I/91Cyu2zZ6DL._AC_UF1000,1000_QL80_.jpg](https://www.oreilly.com/library/cover/9781491912126/1200w630h/)" alt="Python Data Science Handbook" width="300">
+  <img src="https://www.oreilly.com/library/cover/9781491912126/1200w630h/" alt="Python Data Science Handbook" width="300">
 </p>
 
 Practical study and implementation of Data Science concepts based on
